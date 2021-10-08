@@ -1,9 +1,13 @@
 /* This sets up the name of the page, the background color, and the look of the hyperlinks */
 
+body {
+    font-family: 'Electrolize', sans-serif;
+}
+
 h1 {
     font-size: 40px;
     color:whitesmoke;
-    background-color:cadetblue;
+    background-color:#7395AE;
     line-height: 70px;
 }
 
@@ -49,7 +53,7 @@ li {
     padding:10px;
     position: relative;
     bottom: 5px;
-    background-color:cadetblue;
+    background-color:#7395AE;
     margin:20px;
     border-radius:10px;
     border:gray;
@@ -126,7 +130,7 @@ input {
 (background and font) */
 #contact {
     color:whitesmoke;
-    background-color:cadetblue;
+    background-color:#7395AE;
     text-align: start;
     line-height:70px;
     font-size:25px;
@@ -138,7 +142,7 @@ input {
 
 .Info li{
     color:whitesmoke;
-    background-color:cadetblue;
+    background-color:#7395AE;
     text-align:center;
     line-height:70px;
     font-size:25px;
@@ -147,7 +151,6 @@ input {
     position:relative;
     bottom:25px;
     padding:10px;
-    background-color: cadetblue;
     border-radius:10px;
     border:gray;
 }
