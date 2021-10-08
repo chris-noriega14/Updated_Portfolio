@@ -103,7 +103,7 @@ input {
 }
 /* This adds left margin to the about-me text to look better visually*/
 
-#aboutme {
+.aboutme {
     margin-left: 250px;
     margin-bottom: 20px;
 }
