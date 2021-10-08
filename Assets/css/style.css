@@ -81,7 +81,7 @@ h3 {
     display:flex;
     align-items: center;
     font-size:25px;
-    color:gray;
+    color:cadetblue;
     position:relative;
     top:50px;
 }
@@ -104,6 +104,7 @@ input {
     position: relative;
     bottom: 114px;
     margin-bottom: -114px;
+    background-color:whitesmoke;
 }
 /* This adds left margin to the about-me text to look better visually*/
 
@@ -111,6 +112,8 @@ input {
     margin-left: 250px;
     margin-bottom: 20px;
     font-size: 25px;
+    color: cadetblue;
+    
 }
 
 /* This sets up the Work font and the background for this section */
